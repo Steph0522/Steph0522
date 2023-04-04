@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Steph0522
 - 👀 I’m interested in microbiome, metagenomics, bioinformatics and coding.
 - 🌱 I’m currently learning ecological process applied to HTS. 
-- 💞️ I’m looking to collaborate on metagenomics and metabarcoding.
+- 💞️ I’m looking to collaborate on metagenomics and metabarcoding and coding in R
 - 📫 email: shereirap@gmail.com
 
 <!---
